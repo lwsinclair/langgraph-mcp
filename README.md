@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/esxr-langgraph-mcp-badge.png)](https://mseep.ai/app/esxr-langgraph-mcp)
+
 # Universal Assistant built with LangGraph and Model Context Protocol (MCP)
 
 ![langgraph-mcp-openapi-usecases mp4](https://github.com/user-attachments/assets/73d44e87-e77c-4dae-a602-72261b2f6a47)
